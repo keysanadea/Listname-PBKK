@@ -1,0 +1,40 @@
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\bin\Debug\net6.0-windows\listname_latihanwpf.exe
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\bin\Debug\net6.0-windows\listname_latihanwpf.deps.json
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\bin\Debug\net6.0-windows\listname_latihanwpf.runtimeconfig.json
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\bin\Debug\net6.0-windows\listname_latihanwpf.dll
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\bin\Debug\net6.0-windows\listname_latihanwpf.pdb
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\MainWindow.g.cs
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\App.g.cs
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\listname_latihanwpf_MarkupCompile.cache
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\listname_latihanwpf_MarkupCompile.lref
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\MainWindow.baml
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\listname_latihanwpf.g.resources
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\listname_latihanwpf.GeneratedMSBuildEditorConfig.editorconfig
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\listname_latihanwpf.AssemblyInfoInputs.cache
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\listname_latihanwpf.AssemblyInfo.cs
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\listname_latihanwpf.csproj.CoreCompileInputs.cache
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\listname_latihanwpf.dll
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\refint\listname_latihanwpf.dll
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\listname_latihanwpf.pdb
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\listname_latihanwpf.genruntimeconfig.cache
+E:\STUDY\SEMESTER 5\PBKK\PERTEMUAN 3\listname_latihanwpf\listname_latihanwpf\obj\Debug\net6.0-windows\ref\listname_latihanwpf.dll
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\listname_latihanwpf.dll
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\refint\listname_latihanwpf.dll
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\listname_latihanwpf.pdb
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\bin\Debug\net6.0-windows\listname_latihanwpf.exe
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\bin\Debug\net6.0-windows\listname_latihanwpf.deps.json
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\bin\Debug\net6.0-windows\listname_latihanwpf.runtimeconfig.json
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\bin\Debug\net6.0-windows\listname_latihanwpf.dll
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\bin\Debug\net6.0-windows\listname_latihanwpf.pdb
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\listname_latihanwpf_MarkupCompile.cache
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\listname_latihanwpf_MarkupCompile.lref
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\listname_latihanwpf.g.resources
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\listname_latihanwpf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\listname_latihanwpf.AssemblyInfoInputs.cache
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\listname_latihanwpf.AssemblyInfo.cs
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\listname_latihanwpf.csproj.CoreCompileInputs.cache
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\listname_latihanwpf.genruntimeconfig.cache
+C:\Users\danin\Downloads\PBKK_Tugas_3_Listbox-main\PBKK_Tugas_3_Listbox-main\obj\Debug\net6.0-windows\ref\listname_latihanwpf.dll

@@ -1,0 +1,10 @@
+{
+  "version": "0.2.1",
+  "tasks": [
+    {
+      "taskLabel": "task-listname_latihanwpf",
+      "appliesTo": "listname_latihanwpf.csproj",
+      "type": "msbuild"
+    }
+  ]
+}

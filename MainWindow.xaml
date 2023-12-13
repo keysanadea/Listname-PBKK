@@ -1,0 +1,34 @@
+﻿<Window x:Class="listname_latihanwpf.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:listname_latihanwpf"
+        mc:Ignorable="d"
+        Title="Names" Height="240" Width="300">
+	<Grid Margin="10">
+		<Grid.RowDefinitions>
+			<RowDefinition Height="Auto" />
+			<RowDefinition Height="*" />
+			<RowDefinition Height="Auto" />
+		</Grid.RowDefinitions>
+
+		<Grid.ColumnDefinitions>
+			<ColumnDefinition Width="*" />
+			<ColumnDefinition Width="*" />
+		</Grid.ColumnDefinitions>
+
+		<Label Grid.ColumnSpan="2" Content="Names" HorizontalAlignment="Center" VerticalAlignment="Center" FontSize="18" FontWeight="Bold" Foreground="#3498db" />
+
+		<ListBox Grid.Row="1" x:Name="lstNames" BorderBrush="#3498db" BorderThickness="1" Background="#ecf0f1" />
+
+		<StackPanel Grid.Row="1" Grid.Column="1" Margin="5,0,0,0">
+			<TextBox x:Name="txtName" BorderBrush="#3498db" BorderThickness="1" Background="#ecf0f1" Margin="0,0,0,5" Padding="5" />
+
+			<Button x:Name="btnAdd" Content="Add Name" Background="#3498db" Foreground="White" Padding="8" Click="ButtonAddName_Click" />
+
+			<!-- Add a button to delete selected item -->
+			<Button x:Name="btnDelete" Content="Delete" Background="#e74c3c" Foreground="White" Padding="8" Click="ButtonDeleteName_Click" />
+		</StackPanel>
+	</Grid>
+</Window>
